@@ -45,3 +45,11 @@ This **word** is bold. This <em>word<lem> is italic
 |Left               |Center             |Right               |
 |:---               | :---:             | ---:               |
 |1                  | 2                 | 3                  |
+
+## **URLs**
+
+<https://www.markdownguide.org/basic-syntax>
+
+<https://www.markdownguide.org/extended-syntax>
+
+<https://www.markdownguide.org/hacks>
