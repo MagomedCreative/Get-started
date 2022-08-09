@@ -39,3 +39,9 @@ This **word** is bold. This <em>word<lem> is italic
 |Заголовок      |Название   |
 |Абзац          |Текст      |
 |               |           |
+
+## **Выравнивание**
+
+|Left               |Center             |Right               |
+|:---               | :---:             | ---:               |
+|1                  | 2                 | 3                  |
