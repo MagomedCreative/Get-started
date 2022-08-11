@@ -42,6 +42,14 @@
 
 ## **Подписи к изображениям**
 
+Если ваше приложение Markdown поддерживает HTML, то вы сможете использовать HTML-теги figure и figcaption для добавления подписи к изображению.
+
+<figure>
+    <img src="MountFuji.jpg"
+         alt="MountFuji">
+    <figcaption>A shot of Mount Fuji from the street in Japan – Awesome.</figcaption>
+</figure>
+
 ## **Выделение шрифта**
 
 ## **Списки**
