@@ -28,10 +28,6 @@
 
 ![image](Mount_Fuji.jpg)
 
-## **HTML**
-
-This **word** is bold. This <em>word<lem> is italic
-
 ## **Таблица**
 
 |Синтаксис      |Описание   |
