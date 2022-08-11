@@ -26,7 +26,7 @@
 
 ## **Изображения**
 
-![image](Mount_Fuji.jpg)
+![image](MountFuji.jpg)
 
 ## **Таблица**
 
